@@ -1,0 +1,12 @@
+#blink {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    animation: blinker 1s linear infinite;
+}
+  
+@keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }

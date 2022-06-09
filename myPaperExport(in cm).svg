@@ -1,0 +1,1971 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="850.00006"
+   height="78.00001"
+   viewBox="0,0,850.00006,78.00001"
+   id="svg278"
+   sodipodi:docname="myPaperExport(in cm).svg"
+   inkscape:export-filename="C:\Users\亦辰\Desktop\Collection\ruler.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata284">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs282" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2256"
+     inkscape:window-height="1398"
+     id="namedview280"
+     showgrid="false"
+     inkscape:zoom="1.4799999"
+     inkscape:cx="541.34824"
+     inkscape:cy="-192.39868"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg278" />
+  <g
+     id="1 cm. Tick Group"
+     stroke-width="none"
+     stroke-miterlimit="10"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode: normal"
+     font-family="none"
+     stroke-dashoffset="0"
+     stroke-dasharray=""
+     stroke-linejoin="miter"
+     stroke-linecap="butt"
+     stroke="none"
+     fill-rule="nonzero"
+     fill="none">
+    <path
+       d="M0,0v28.34646"
+       id="1 cm. Tick no. 0"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="4"
+       y="29.34646"
+       id="1 cm. label no. 0"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">0</text>
+    <path
+       d="M28.34646,0v28.34646"
+       id="1 cm. Tick no. 1"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="32.34646"
+       y="29.34646"
+       id="1 cm. label no. 1"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">1</text>
+    <path
+       d="M56.69291,0v28.34646"
+       id="1 cm. Tick no. 2"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="60.69291"
+       y="29.34646"
+       id="1 cm. label no. 2"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">2</text>
+    <path
+       d="M85.03937,0v28.34646"
+       id="1 cm. Tick no. 3"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="89.03937"
+       y="29.34646"
+       id="1 cm. label no. 3"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">3</text>
+    <path
+       d="M113.38583,0v28.34646"
+       id="1 cm. Tick no. 4"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="117.38583"
+       y="29.34646"
+       id="1 cm. label no. 4"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">4</text>
+    <path
+       d="M141.73228,0v28.34646"
+       id="1 cm. Tick no. 5"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="145.73228"
+       y="29.34646"
+       id="1 cm. label no. 5"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">5</text>
+    <path
+       d="M170.07874,0v28.34646"
+       id="1 cm. Tick no. 6"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="174.07874"
+       y="29.34646"
+       id="1 cm. label no. 6"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">6</text>
+    <path
+       d="M198.4252,0v28.34646"
+       id="1 cm. Tick no. 7"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="202.4252"
+       y="29.34646"
+       id="1 cm. label no. 7"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">7</text>
+    <path
+       d="M226.77165,0v28.34646"
+       id="1 cm. Tick no. 8"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="230.77165"
+       y="29.34646"
+       id="1 cm. label no. 8"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">8</text>
+    <path
+       d="M255.11811,0v28.34646"
+       id="1 cm. Tick no. 9"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="259.11811"
+       y="29.34646"
+       id="1 cm. label no. 9"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">9</text>
+    <path
+       d="M283.46457,0v28.34646"
+       id="1 cm. Tick no. 10"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="287.46457"
+       y="29.34646"
+       id="1 cm. label no. 10"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">10</text>
+    <path
+       d="M311.81102,0v28.34646"
+       id="1 cm. Tick no. 11"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="315.81102"
+       y="29.34646"
+       id="1 cm. label no. 11"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">11</text>
+    <path
+       d="M340.15748,0v28.34646"
+       id="1 cm. Tick no. 12"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="344.15748"
+       y="29.34646"
+       id="1 cm. label no. 12"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">12</text>
+    <path
+       d="M368.50394,0v28.34646"
+       id="1 cm. Tick no. 13"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="372.50394"
+       y="29.34646"
+       id="1 cm. label no. 13"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">13</text>
+    <path
+       d="M396.85039,0v28.34646"
+       id="1 cm. Tick no. 14"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="400.85039"
+       y="29.34646"
+       id="1 cm. label no. 14"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">14</text>
+    <path
+       d="M425.19685,0v28.34646"
+       id="1 cm. Tick no. 15"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="429.19685"
+       y="29.34646"
+       id="1 cm. label no. 15"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">15</text>
+    <path
+       d="M453.54331,0v28.34646"
+       id="1 cm. Tick no. 16"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="457.54331"
+       y="29.34646"
+       id="1 cm. label no. 16"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">16</text>
+    <path
+       d="M481.88976,0v28.34646"
+       id="1 cm. Tick no. 17"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="485.88976"
+       y="29.34646"
+       id="1 cm. label no. 17"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">17</text>
+    <path
+       d="M510.23622,0v28.34646"
+       id="1 cm. Tick no. 18"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="514.23622"
+       y="29.34646"
+       id="1 cm. label no. 18"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">18</text>
+    <path
+       d="M538.58268,0v28.34646"
+       id="1 cm. Tick no. 19"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="542.58268"
+       y="29.34646"
+       id="1 cm. label no. 19"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">19</text>
+    <path
+       d="M566.92913,0v28.34646"
+       id="1 cm. Tick no. 20"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="570.92913"
+       y="29.34646"
+       id="1 cm. label no. 20"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">20</text>
+    <path
+       d="M595.27559,0v28.34646"
+       id="1 cm. Tick no. 21"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="599.27559"
+       y="29.34646"
+       id="1 cm. label no. 21"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">21</text>
+    <path
+       d="M623.62205,0v28.34646"
+       id="1 cm. Tick no. 22"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="627.62205"
+       y="29.34646"
+       id="1 cm. label no. 22"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">22</text>
+    <path
+       d="M651.9685,0v28.34646"
+       id="1 cm. Tick no. 23"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="655.9685"
+       y="29.34646"
+       id="1 cm. label no. 23"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">23</text>
+    <path
+       d="M680.31496,0v28.34646"
+       id="1 cm. Tick no. 24"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="684.31496"
+       y="29.34646"
+       id="1 cm. label no. 24"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">24</text>
+    <path
+       d="M708.66142,0v28.34646"
+       id="1 cm. Tick no. 25"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="712.66142"
+       y="29.34646"
+       id="1 cm. label no. 25"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">25</text>
+    <path
+       d="M737.00787,0v28.34646"
+       id="1 cm. Tick no. 26"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="741.00787"
+       y="29.34646"
+       id="1 cm. label no. 26"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">26</text>
+    <path
+       d="M765.35433,0v28.34646"
+       id="1 cm. Tick no. 27"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="769.35433"
+       y="29.34646"
+       id="1 cm. label no. 27"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">27</text>
+    <path
+       d="M793.70079,0v28.34646"
+       id="1 cm. Tick no. 28"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="797.70079"
+       y="29.34646"
+       id="1 cm. label no. 28"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">28</text>
+    <path
+       d="M822.04724,0v28.34646"
+       id="1 cm. Tick no. 29"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="826.04724"
+       y="29.34646"
+       id="1 cm. label no. 29"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="start"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">29</text>
+    <path
+       d="M850.3937,0v28.34646"
+       id="1 cm. Tick no. 30"
+       stroke-width="1"
+       stroke="#000000"
+       fill="none" />
+    <text
+       x="846.3937"
+       y="29.34646"
+       id="1 cm. label no. 30"
+       font-weight="bold"
+       font-size="7"
+       text-anchor="end"
+       font-family="monospace"
+       stroke-width="1"
+       stroke="none"
+       fill="#000000">30</text>
+  </g>
+  <g
+     id="1/2 cm. Tick Group"
+     fill="none"
+     fill-rule="nonzero"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray=""
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode: normal">
+    <path
+       d="M14.17323,0v14.17323"
+       id="1/2 cm. Tick no. 1" />
+    <path
+       d="M42.51969,0v14.17323"
+       id="1/2 cm. Tick no. 3" />
+    <path
+       d="M70.86614,0v14.17323"
+       id="1/2 cm. Tick no. 5" />
+    <path
+       d="M99.2126,0v14.17323"
+       id="1/2 cm. Tick no. 7" />
+    <path
+       d="M127.55906,0v14.17323"
+       id="1/2 cm. Tick no. 9" />
+    <path
+       d="M155.90551,0v14.17323"
+       id="1/2 cm. Tick no. 11" />
+    <path
+       d="M184.25197,0v14.17323"
+       id="1/2 cm. Tick no. 13" />
+    <path
+       d="M212.59843,0v14.17323"
+       id="1/2 cm. Tick no. 15" />
+    <path
+       d="M240.94488,0v14.17323"
+       id="1/2 cm. Tick no. 17" />
+    <path
+       d="M269.29134,0v14.17323"
+       id="1/2 cm. Tick no. 19" />
+    <path
+       d="M297.6378,0v14.17323"
+       id="1/2 cm. Tick no. 21" />
+    <path
+       d="M325.98425,0v14.17323"
+       id="1/2 cm. Tick no. 23" />
+    <path
+       d="M354.33071,0v14.17323"
+       id="1/2 cm. Tick no. 25" />
+    <path
+       d="M382.67717,0v14.17323"
+       id="1/2 cm. Tick no. 27" />
+    <path
+       d="M411.02362,0v14.17323"
+       id="1/2 cm. Tick no. 29" />
+    <path
+       d="M439.37008,0v14.17323"
+       id="1/2 cm. Tick no. 31" />
+    <path
+       d="M467.71654,0v14.17323"
+       id="1/2 cm. Tick no. 33" />
+    <path
+       d="M496.06299,0v14.17323"
+       id="1/2 cm. Tick no. 35" />
+    <path
+       d="M524.40945,0v14.17323"
+       id="1/2 cm. Tick no. 37" />
+    <path
+       d="M552.75591,0v14.17323"
+       id="1/2 cm. Tick no. 39" />
+    <path
+       d="M581.10236,0v14.17323"
+       id="1/2 cm. Tick no. 41" />
+    <path
+       d="M609.44882,0v14.17323"
+       id="1/2 cm. Tick no. 43" />
+    <path
+       d="M637.79528,0v14.17323"
+       id="1/2 cm. Tick no. 45" />
+    <path
+       d="M666.14173,0v14.17323"
+       id="1/2 cm. Tick no. 47" />
+    <path
+       d="M694.48819,0v14.17323"
+       id="1/2 cm. Tick no. 49" />
+    <path
+       d="M722.83465,0v14.17323"
+       id="1/2 cm. Tick no. 51" />
+    <path
+       d="M751.1811,0v14.17323"
+       id="1/2 cm. Tick no. 53" />
+    <path
+       d="M779.52756,0v14.17323"
+       id="1/2 cm. Tick no. 55" />
+    <path
+       d="M807.87402,0v14.17323"
+       id="1/2 cm. Tick no. 57" />
+    <path
+       d="M836.22047,0v14.17323"
+       id="1/2 cm. Tick no. 59" />
+  </g>
+  <g
+     id="1/4 cm. Tick Group"
+     stroke-miterlimit="10"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="font-family:none;mix-blend-mode:normal;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     transform="scale(1,1.6197452)">
+    <path
+       d="M 7.08661,0 V 7.08661"
+       id="1/4 cm. Tick no. 1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 21.25984,0 V 7.08661"
+       id="1/4 cm. Tick no. 3"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 35.43307,0 V 7.08661"
+       id="1/4 cm. Tick no. 5"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 49.6063,0 V 7.08661"
+       id="1/4 cm. Tick no. 7"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 63.77953,0 V 7.08661"
+       id="1/4 cm. Tick no. 9"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 77.95276,0 V 7.08661"
+       id="1/4 cm. Tick no. 11"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 92.12598,0 V 7.08661"
+       id="1/4 cm. Tick no. 13"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 106.29921,0 V 7.08661"
+       id="1/4 cm. Tick no. 15"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 120.47244,0 V 7.08661"
+       id="1/4 cm. Tick no. 17"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 134.64567,0 V 7.08661"
+       id="1/4 cm. Tick no. 19"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 148.8189,0 V 7.08661"
+       id="1/4 cm. Tick no. 21"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 162.99213,0 V 7.08661"
+       id="1/4 cm. Tick no. 23"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 177.16535,0 V 7.08661"
+       id="1/4 cm. Tick no. 25"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 191.33858,0 V 7.08661"
+       id="1/4 cm. Tick no. 27"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 205.51181,0 V 7.08661"
+       id="1/4 cm. Tick no. 29"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 219.68504,0 V 7.08661"
+       id="1/4 cm. Tick no. 31"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 233.85827,0 V 7.08661"
+       id="1/4 cm. Tick no. 33"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 248.0315,0 V 7.08661"
+       id="1/4 cm. Tick no. 35"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 262.20472,0 V 7.08661"
+       id="1/4 cm. Tick no. 37"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 276.37795,0 V 7.08661"
+       id="1/4 cm. Tick no. 39"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 290.55118,0 V 7.08661"
+       id="1/4 cm. Tick no. 41"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 304.72441,0 V 7.08661"
+       id="1/4 cm. Tick no. 43"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 318.89764,0 V 7.08661"
+       id="1/4 cm. Tick no. 45"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 333.07087,0 V 7.08661"
+       id="1/4 cm. Tick no. 47"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 347.24409,0 V 7.08661"
+       id="1/4 cm. Tick no. 49"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 361.41732,0 V 7.08661"
+       id="1/4 cm. Tick no. 51"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 375.59055,0 V 7.08661"
+       id="1/4 cm. Tick no. 53"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 389.76378,0 V 7.08661"
+       id="1/4 cm. Tick no. 55"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 403.93701,0 V 7.08661"
+       id="1/4 cm. Tick no. 57"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 418.11024,0 V 7.08661"
+       id="1/4 cm. Tick no. 59"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 432.28346,0 V 7.08661"
+       id="1/4 cm. Tick no. 61"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 446.45669,0 V 7.08661"
+       id="1/4 cm. Tick no. 63"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 460.62992,0 V 7.08661"
+       id="1/4 cm. Tick no. 65"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 474.80315,0 V 7.08661"
+       id="1/4 cm. Tick no. 67"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 488.97638,0 V 7.08661"
+       id="1/4 cm. Tick no. 69"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 503.14961,0 V 7.08661"
+       id="1/4 cm. Tick no. 71"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 517.32283,0 V 7.08661"
+       id="1/4 cm. Tick no. 73"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 531.49606,0 V 7.08661"
+       id="1/4 cm. Tick no. 75"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 545.66929,0 V 7.08661"
+       id="1/4 cm. Tick no. 77"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 559.84252,0 V 7.08661"
+       id="1/4 cm. Tick no. 79"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 574.01575,0 V 7.08661"
+       id="1/4 cm. Tick no. 81"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 588.18898,0 V 7.08661"
+       id="1/4 cm. Tick no. 83"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 602.3622,0 V 7.08661"
+       id="1/4 cm. Tick no. 85"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 616.53543,0 V 7.08661"
+       id="1/4 cm. Tick no. 87"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 630.70866,0 V 7.08661"
+       id="1/4 cm. Tick no. 89"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 644.88189,0 V 7.08661"
+       id="1/4 cm. Tick no. 91"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 659.05512,0 V 7.08661"
+       id="1/4 cm. Tick no. 93"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 673.22835,0 V 7.08661"
+       id="1/4 cm. Tick no. 95"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 687.40157,0 V 7.08661"
+       id="1/4 cm. Tick no. 97"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 701.5748,0 V 7.08661"
+       id="1/4 cm. Tick no. 99"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 715.74803,0 V 7.08661"
+       id="1/4 cm. Tick no. 101"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 729.92126,0 V 7.08661"
+       id="1/4 cm. Tick no. 103"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 744.09449,0 V 7.08661"
+       id="1/4 cm. Tick no. 105"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 758.26772,0 V 7.08661"
+       id="1/4 cm. Tick no. 107"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 772.44094,0 V 7.08661"
+       id="1/4 cm. Tick no. 109"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 786.61417,0 V 7.08661"
+       id="1/4 cm. Tick no. 111"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 800.7874,0 V 7.08661"
+       id="1/4 cm. Tick no. 113"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 814.96063,0 V 7.08661"
+       id="1/4 cm. Tick no. 115"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 829.13386,0 V 7.08661"
+       id="1/4 cm. Tick no. 117"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 843.30709,0 V 7.08661"
+       id="1/4 cm. Tick no. 119"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="1/8 cm. Tick Group"
+     stroke-miterlimit="10"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="font-family:none;mix-blend-mode:normal;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     transform="matrix(1,0,0,3.1452696,-0.19681948,0)">
+    <path
+       d="M 3.54331,0 V 3.54331"
+       id="1/8 cm. Tick no. 1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 10.62992,0 V 3.54331"
+       id="1/8 cm. Tick no. 3"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 17.71654,0 V 3.54331"
+       id="1/8 cm. Tick no. 5"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 24.80315,0 V 3.54331"
+       id="1/8 cm. Tick no. 7"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 31.88976,0 V 3.54331"
+       id="1/8 cm. Tick no. 9"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 38.97638,0 V 3.54331"
+       id="1/8 cm. Tick no. 11"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 46.06299,0 V 3.54331"
+       id="1/8 cm. Tick no. 13"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 53.14961,0 V 3.54331"
+       id="1/8 cm. Tick no. 15"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 60.23622,0 V 3.54331"
+       id="1/8 cm. Tick no. 17"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 67.32283,0 V 3.54331"
+       id="1/8 cm. Tick no. 19"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 74.40945,0 V 3.54331"
+       id="1/8 cm. Tick no. 21"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 81.49606,0 V 3.54331"
+       id="1/8 cm. Tick no. 23"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 88.58268,0 V 3.54331"
+       id="1/8 cm. Tick no. 25"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 95.66929,0 V 3.54331"
+       id="1/8 cm. Tick no. 27"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 102.75591,0 V 3.54331"
+       id="1/8 cm. Tick no. 29"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 109.84252,0 V 3.54331"
+       id="1/8 cm. Tick no. 31"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 116.92913,0 V 3.54331"
+       id="1/8 cm. Tick no. 33"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 124.01575,0 V 3.54331"
+       id="1/8 cm. Tick no. 35"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 131.10236,0 V 3.54331"
+       id="1/8 cm. Tick no. 37"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 138.18898,0 V 3.54331"
+       id="1/8 cm. Tick no. 39"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 145.27559,0 V 3.54331"
+       id="1/8 cm. Tick no. 41"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 152.3622,0 V 3.54331"
+       id="1/8 cm. Tick no. 43"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 159.44882,0 V 3.54331"
+       id="1/8 cm. Tick no. 45"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 166.53543,0 V 3.54331"
+       id="1/8 cm. Tick no. 47"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 173.62205,0 V 3.54331"
+       id="1/8 cm. Tick no. 49"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 180.70866,0 V 3.54331"
+       id="1/8 cm. Tick no. 51"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 187.79528,0 V 3.54331"
+       id="1/8 cm. Tick no. 53"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 194.88189,0 V 3.54331"
+       id="1/8 cm. Tick no. 55"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 201.9685,0 V 3.54331"
+       id="1/8 cm. Tick no. 57"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 209.05512,0 V 3.54331"
+       id="1/8 cm. Tick no. 59"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 216.14173,0 V 3.54331"
+       id="1/8 cm. Tick no. 61"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 223.22835,0 V 3.54331"
+       id="1/8 cm. Tick no. 63"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 230.31496,0 V 3.54331"
+       id="1/8 cm. Tick no. 65"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 237.40157,0 V 3.54331"
+       id="1/8 cm. Tick no. 67"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 244.48819,0 V 3.54331"
+       id="1/8 cm. Tick no. 69"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 251.5748,0 V 3.54331"
+       id="1/8 cm. Tick no. 71"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 258.66142,0 V 3.54331"
+       id="1/8 cm. Tick no. 73"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 265.74803,0 V 3.54331"
+       id="1/8 cm. Tick no. 75"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 272.83465,0 V 3.54331"
+       id="1/8 cm. Tick no. 77"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 279.92126,0 V 3.54331"
+       id="1/8 cm. Tick no. 79"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 287.00787,0 V 3.54331"
+       id="1/8 cm. Tick no. 81"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 294.09449,0 V 3.54331"
+       id="1/8 cm. Tick no. 83"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 301.1811,0 V 3.54331"
+       id="1/8 cm. Tick no. 85"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 308.26772,0 V 3.54331"
+       id="1/8 cm. Tick no. 87"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 315.35433,0 V 3.54331"
+       id="1/8 cm. Tick no. 89"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 322.44094,0 V 3.54331"
+       id="1/8 cm. Tick no. 91"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 329.52756,0 V 3.54331"
+       id="1/8 cm. Tick no. 93"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 336.61417,0 V 3.54331"
+       id="1/8 cm. Tick no. 95"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 343.70079,0 V 3.54331"
+       id="1/8 cm. Tick no. 97"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 350.7874,0 V 3.54331"
+       id="1/8 cm. Tick no. 99"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 357.87402,0 V 3.54331"
+       id="1/8 cm. Tick no. 101"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 364.96063,0 V 3.54331"
+       id="1/8 cm. Tick no. 103"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 372.04724,0 V 3.54331"
+       id="1/8 cm. Tick no. 105"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 379.13386,0 V 3.54331"
+       id="1/8 cm. Tick no. 107"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 386.22047,0 V 3.54331"
+       id="1/8 cm. Tick no. 109"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 393.30709,0 V 3.54331"
+       id="1/8 cm. Tick no. 111"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 400.3937,0 V 3.54331"
+       id="1/8 cm. Tick no. 113"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 407.48031,0 V 3.54331"
+       id="1/8 cm. Tick no. 115"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 414.56693,0 V 3.54331"
+       id="1/8 cm. Tick no. 117"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 421.65354,0 V 3.54331"
+       id="1/8 cm. Tick no. 119"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 428.74016,0 V 3.54331"
+       id="1/8 cm. Tick no. 121"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 435.82677,0 V 3.54331"
+       id="1/8 cm. Tick no. 123"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 442.91339,0 V 3.54331"
+       id="1/8 cm. Tick no. 125"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 450,0 V 3.54331"
+       id="1/8 cm. Tick no. 127"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 457.08661,0 V 3.54331"
+       id="1/8 cm. Tick no. 129"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 464.17323,0 V 3.54331"
+       id="1/8 cm. Tick no. 131"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 471.25984,0 V 3.54331"
+       id="1/8 cm. Tick no. 133"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 478.34646,0 V 3.54331"
+       id="1/8 cm. Tick no. 135"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 485.43307,0 V 3.54331"
+       id="1/8 cm. Tick no. 137"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 492.51969,0 V 3.54331"
+       id="1/8 cm. Tick no. 139"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 499.6063,0 V 3.54331"
+       id="1/8 cm. Tick no. 141"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 506.69291,0 V 3.54331"
+       id="1/8 cm. Tick no. 143"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 513.77953,0 V 3.54331"
+       id="1/8 cm. Tick no. 145"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 520.86614,0 V 3.54331"
+       id="1/8 cm. Tick no. 147"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 527.95276,0 V 3.54331"
+       id="1/8 cm. Tick no. 149"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 535.03937,0 V 3.54331"
+       id="1/8 cm. Tick no. 151"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 542.12598,0 V 3.54331"
+       id="1/8 cm. Tick no. 153"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 549.2126,0 V 3.54331"
+       id="1/8 cm. Tick no. 155"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 556.29921,0 V 3.54331"
+       id="1/8 cm. Tick no. 157"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 563.38583,0 V 3.54331"
+       id="1/8 cm. Tick no. 159"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 570.47244,0 V 3.54331"
+       id="1/8 cm. Tick no. 161"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 577.55906,0 V 3.54331"
+       id="1/8 cm. Tick no. 163"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 584.64567,0 V 3.54331"
+       id="1/8 cm. Tick no. 165"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 591.73228,0 V 3.54331"
+       id="1/8 cm. Tick no. 167"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 598.8189,0 V 3.54331"
+       id="1/8 cm. Tick no. 169"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 605.90551,0 V 3.54331"
+       id="1/8 cm. Tick no. 171"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 612.99213,0 V 3.54331"
+       id="1/8 cm. Tick no. 173"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 620.07874,0 V 3.54331"
+       id="1/8 cm. Tick no. 175"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 627.16535,0 V 3.54331"
+       id="1/8 cm. Tick no. 177"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 634.25197,0 V 3.54331"
+       id="1/8 cm. Tick no. 179"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 641.33858,0 V 3.54331"
+       id="1/8 cm. Tick no. 181"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 648.4252,0 V 3.54331"
+       id="1/8 cm. Tick no. 183"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 655.51181,0 V 3.54331"
+       id="1/8 cm. Tick no. 185"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 662.59843,0 V 3.54331"
+       id="1/8 cm. Tick no. 187"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 669.68504,0 V 3.54331"
+       id="1/8 cm. Tick no. 189"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 676.77165,0 V 3.54331"
+       id="1/8 cm. Tick no. 191"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 683.85827,0 V 3.54331"
+       id="1/8 cm. Tick no. 193"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 690.94488,0 V 3.54331"
+       id="1/8 cm. Tick no. 195"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 698.0315,0 V 3.54331"
+       id="1/8 cm. Tick no. 197"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 705.11811,0 V 3.54331"
+       id="1/8 cm. Tick no. 199"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 712.20472,0 V 3.54331"
+       id="1/8 cm. Tick no. 201"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 719.29134,0 V 3.54331"
+       id="1/8 cm. Tick no. 203"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 726.37795,0 V 3.54331"
+       id="1/8 cm. Tick no. 205"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 733.46457,0 V 3.54331"
+       id="1/8 cm. Tick no. 207"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 740.55118,0 V 3.54331"
+       id="1/8 cm. Tick no. 209"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 747.6378,0 V 3.54331"
+       id="1/8 cm. Tick no. 211"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 754.72441,0 V 3.54331"
+       id="1/8 cm. Tick no. 213"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 761.81102,0 V 3.54331"
+       id="1/8 cm. Tick no. 215"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 768.89764,0 V 3.54331"
+       id="1/8 cm. Tick no. 217"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 775.98425,0 V 3.54331"
+       id="1/8 cm. Tick no. 219"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 783.07087,0 V 3.54331"
+       id="1/8 cm. Tick no. 221"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 790.15748,0 V 3.54331"
+       id="1/8 cm. Tick no. 223"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 797.24409,0 V 3.54331"
+       id="1/8 cm. Tick no. 225"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 804.33071,0 V 3.54331"
+       id="1/8 cm. Tick no. 227"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 811.41732,0 V 3.54331"
+       id="1/8 cm. Tick no. 229"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 818.50394,0 V 3.54331"
+       id="1/8 cm. Tick no. 231"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 825.59055,0 V 3.54331"
+       id="1/8 cm. Tick no. 233"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 832.67717,0 V 3.54331"
+       id="1/8 cm. Tick no. 235"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 839.76378,0 V 3.54331"
+       id="1/8 cm. Tick no. 237"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 846.85039,0 V 3.54331"
+       id="1/8 cm. Tick no. 239"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g1733"
+     transform="matrix(1,0,0,-1,-6.9999695,91.073558)">
+    <g
+       style="font-family:none;mix-blend-mode:normal;fill:none;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+       text-anchor="none"
+       font-size="none"
+       font-weight="none"
+       stroke-miterlimit="10"
+       stroke-width="none"
+       id="1 &quot;in. Tick Group">
+      <path
+         id="1 &quot;in. Tick no. 0"
+         d="M 0,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 0"
+         y="58.599998"
+         x="4"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">0</text>
+      <path
+         id="1 &quot;in. Tick no. 1"
+         d="M 72,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 1"
+         y="58.599998"
+         x="76"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">1</text>
+      <path
+         id="1 &quot;in. Tick no. 2"
+         d="M 144,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 2"
+         y="58.599998"
+         x="148"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">2</text>
+      <path
+         id="1 &quot;in. Tick no. 3"
+         d="M 216,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 3"
+         y="58.599998"
+         x="220"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">3</text>
+      <path
+         id="1 &quot;in. Tick no. 4"
+         d="M 288,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 4"
+         y="58.599998"
+         x="292"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">4</text>
+      <path
+         id="1 &quot;in. Tick no. 5"
+         d="M 360,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 5"
+         y="58.599998"
+         x="364"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">5</text>
+      <path
+         id="1 &quot;in. Tick no. 6"
+         d="M 432,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 6"
+         y="58.599998"
+         x="436"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">6</text>
+      <path
+         id="1 &quot;in. Tick no. 7"
+         d="M 504,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 7"
+         y="58.599998"
+         x="508"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">7</text>
+      <path
+         id="1 &quot;in. Tick no. 8"
+         d="M 576,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 8"
+         y="58.599998"
+         x="580"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">8</text>
+      <path
+         id="1 &quot;in. Tick no. 9"
+         d="M 648,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 9"
+         y="58.599998"
+         x="652"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">9</text>
+      <path
+         id="1 &quot;in. Tick no. 10"
+         d="M 720,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 10"
+         y="58.599998"
+         x="724"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">10</text>
+      <path
+         id="1 &quot;in. Tick no. 11"
+         d="M 792,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 11"
+         y="58.599998"
+         x="796"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:start;fill:#000000;stroke:none;stroke-width:1">11</text>
+      <path
+         id="1 &quot;in. Tick no. 12"
+         d="M 864,0 V 57.6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1" />
+      <text
+         font-size="18"
+         font-weight="bold"
+         id="1 &quot;in. label no. 12"
+         y="58.599998"
+         x="860"
+         style="font-weight:bold;font-size:18px;font-family:monospace;text-anchor:end;fill:#000000;stroke:none;stroke-width:1">12</text>
+    </g>
+    <g
+       style="font-family:none;mix-blend-mode:normal;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+       text-anchor="none"
+       font-size="none"
+       font-weight="none"
+       stroke-miterlimit="10"
+       id="1/2 &quot;in. Tick Group">
+      <path
+         id="1/2 &quot;in. Tick no. 1"
+         d="M 36,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 3"
+         d="M 108,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 5"
+         d="M 180,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 7"
+         d="M 252,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 9"
+         d="M 324,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 11"
+         d="M 396,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 13"
+         d="M 468,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 15"
+         d="M 540,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 17"
+         d="M 612,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 19"
+         d="M 684,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 21"
+         d="M 756,0 V 28.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/2 &quot;in. Tick no. 23"
+         d="M 828,0 V 28.8"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="font-family:none;mix-blend-mode:normal;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+       text-anchor="none"
+       font-size="none"
+       font-weight="none"
+       stroke-miterlimit="10"
+       id="1/4 &quot;in. Tick Group">
+      <path
+         id="1/4 &quot;in. Tick no. 1"
+         d="M 18,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 3"
+         d="M 54,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 5"
+         d="M 90,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 7"
+         d="M 126,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 9"
+         d="M 162,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 11"
+         d="M 198,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 13"
+         d="M 234,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 15"
+         d="M 270,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 17"
+         d="M 306,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 19"
+         d="M 342,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 21"
+         d="M 378,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 23"
+         d="M 414,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 25"
+         d="M 450,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 27"
+         d="M 486,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 29"
+         d="M 522,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 31"
+         d="M 558,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 33"
+         d="M 594,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 35"
+         d="M 630,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 37"
+         d="M 666,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 39"
+         d="M 702,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 41"
+         d="M 738,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 43"
+         d="M 774,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 45"
+         d="M 810,0 V 14.4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/4 &quot;in. Tick no. 47"
+         d="M 846,0 V 14.4"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="font-family:none;mix-blend-mode:normal;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+       text-anchor="none"
+       font-size="none"
+       font-weight="none"
+       stroke-miterlimit="10"
+       id="1/8 &quot;in. Tick Group">
+      <path
+         id="1/8 &quot;in. Tick no. 1"
+         d="M 9,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 3"
+         d="M 27,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 5"
+         d="M 45,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 7"
+         d="M 63,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 9"
+         d="M 81,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 11"
+         d="M 99,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 13"
+         d="M 117,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 15"
+         d="M 135,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 17"
+         d="M 153,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 19"
+         d="M 171,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 21"
+         d="M 189,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 23"
+         d="M 207,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 25"
+         d="M 225,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 27"
+         d="M 243,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 29"
+         d="M 261,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 31"
+         d="M 279,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 33"
+         d="M 297,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 35"
+         d="M 315,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 37"
+         d="M 333,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 39"
+         d="M 351,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 41"
+         d="M 369,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 43"
+         d="M 387,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 45"
+         d="M 405,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 47"
+         d="M 423,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 49"
+         d="M 441,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 51"
+         d="M 459,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 53"
+         d="M 477,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 55"
+         d="M 495,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 57"
+         d="M 513,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 59"
+         d="M 531,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 61"
+         d="M 549,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 63"
+         d="M 567,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 65"
+         d="M 585,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 67"
+         d="M 603,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 69"
+         d="M 621,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 71"
+         d="M 639,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 73"
+         d="M 657,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 75"
+         d="M 675,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 77"
+         d="M 693,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 79"
+         d="M 711,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 81"
+         d="M 729,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 83"
+         d="M 747,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 85"
+         d="M 765,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 87"
+         d="M 783,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 89"
+         d="M 801,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 91"
+         d="M 819,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 93"
+         d="M 837,0 V 7.2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="1/8 &quot;in. Tick no. 95"
+         d="M 855,0 V 7.2"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
